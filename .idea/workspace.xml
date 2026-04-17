@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea6c0ba-f7eb-4b70-9b83-03b18184b1c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/auth.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/booking.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/management.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776446349773</updated>
-      <workItem from="1776446350800" duration="871000" />
+      <workItem from="1776446350800" duration="1534000" />
     </task>
     <servers />
   </component>
