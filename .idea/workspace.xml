@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea6c0ba-f7eb-4b70-9b83-03b18184b1c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gateway.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
+    <list default="true" id="1ea6c0ba-f7eb-4b70-9b83-03b18184b1c7" name="Changes" comment="ADD - Adding gateway config.">
+      <change afterPath="$PROJECT_DIR$/discovery.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +74,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776446349773</updated>
-      <workItem from="1776446350800" duration="1534000" />
+      <workItem from="1776446350800" duration="2520000" />
     </task>
+    <task id="LOCAL-00001" summary="ADD - Adding gateway config.">
+      <option name="closed" value="true" />
+      <created>1776448318542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776448318542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD - Adding gateway config." />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD - Adding gateway config." />
   </component>
 </project>
