@@ -1,11 +1,13 @@
+# En tu repo de GitHub: auth.yml
 server:
   port: 8081
 
 spring:
-  security:
-    oauth2:
-      client:
-        registration:
-          google:
-            client-id: ${GOOGLE_CLIENT_ID}
-            client-secret: ${GOOGLE_CLIENT_SECRET}
+  datasource:
+    url: jdbc:postgresql://localhost:5432/auth
+    username: reservs
+    password: reservs
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
